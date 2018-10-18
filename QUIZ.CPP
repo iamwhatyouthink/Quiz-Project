@@ -1,5 +1,6 @@
 
 #include <iostream.h>
+using namespace std;
 #include <conio.h>
 #include <dos.h>
 #include <string.h>
